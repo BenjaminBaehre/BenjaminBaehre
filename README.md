@@ -1,7 +1,7 @@
 - 👋 Hey, I'm Benny. I am the CEO of TimeToMine Studios.
 - 👀 We are a Development Studio and are creating stuff for our Minecraft Network.
 - 🌱 We are currently developing Spigot and Bungeecord Plugins with Java.
-- 📫 You can contact me via Email: craftingbenny@timetomine.net	
+- 📫 You can contact me via Email: info@timetomine.net	
 
 <!---
 TTMStudios/TTMStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
