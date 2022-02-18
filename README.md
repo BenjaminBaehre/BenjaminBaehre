@@ -1,6 +1,6 @@
-- 👋 Hey, I'm Benny. I am the CEO of TimeToMine Studios.
-- 👀 We are a Development Studio and are creating stuff for our Minecraft Network.
-- 🌱 We are currently developing Spigot and Bungeecord Plugins with Java.
+- 👋 Hey, I'm Benny. I am really happy that you found my profile.
+- 👀 I'm just a normal random like you are, so feel free to contact me :D
+- 🌱 I'm very new to Minecraft-Development so every feedback is kindly welcomed.
 - 📫 You can contact me via Email: info@timetomine.net	
 
 <!---
